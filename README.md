@@ -1,8 +1,10 @@
 # Hi I'm Raaz Yadav <img src="./Assets/wave.gif" width="35px">
 
 # I'm 17 years old Self-taught web developer from India
-<img src="./Assets/me.gif" width="80px">
+<img src="./Assets/me.svg" width="300px">
+
 [<img src ="https://img.shields.io/badge/mywebsite-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://raazyadav.in)
+
 ## Languages I use:
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
